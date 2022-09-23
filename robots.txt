@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://designrich.github.io/kitchen-remodel/sitemapx.xml
